@@ -4,9 +4,9 @@
 AutoFPR is a lightweight numerical reasoning tool designed to assess whether different floating-point precision levels (16-bit, 32-bit, 64-bit) are sufficient to meet specific numerical accuracy requirements. The goal is to provide a simple, testable framework for understanding how computational errors vary with floating-point representation.
 
 The current demonstration focuses on the polynomial function:
-\[
+$$
 f(x) = x^3 - 2x + 1
-\]
+$$
 but the approach is generalizable to other numerical computations.
 
 ## Why Precision Matters
